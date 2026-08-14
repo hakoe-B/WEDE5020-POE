@@ -128,7 +128,7 @@ Total  cost : R 8765
 
 REFERENCES 
 
-Canva (2026) Webpage Template.  Available at:  Canva (Accessed: 13 August 2026) 
+Canva (2026) Webpage Template.  Available at:  Canva (Accessed: 13 August 2026).
 
 GitHub(2026) Configuring a publishing source for your GitHub page site. Available at: https://docs.github.com/en/pags/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site  (Accessed: 11 August 2026) 
 
