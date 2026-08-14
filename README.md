@@ -36,7 +36,6 @@ The goals for this BookNest website are:
 To promote special sales offers. By offering specials to the customers that purchase more than a certain amount on the website to boost sales made on the website of BookNest.  
 
 Make it easier to purchase books and stationery online. The goal is to make it easier for the user to easily navigate through the website when purchasing either books or stationery, by making each navigation and payment methods quicker, faster and more efficient and improving overall customer experience online.  
-
  
 
 The website’s performance will be measured by comparing online sales with physical store sales. Its efficiency will also be evaluated through customer ratings and feedback on how easy the website is to navigate. This feedback will help developers identify and fix issues that may negatively affect the customer experience. 
